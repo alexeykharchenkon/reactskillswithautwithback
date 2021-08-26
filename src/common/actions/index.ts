@@ -1,0 +1,9 @@
+export const LOAD_ITEMS = "LOAD_ITEMS";
+export const ADD_ITEM = "ADD_ITEM";
+export const DELETE_ITEM = "DELETE_ITEM";
+export const UPDATE_ITEM = "UPDATE_ITEM";
+export const EDIT_ITEM = "EDIT_ITEM";
+export const SET_ACTIVE_ITEM_UNDEFINED = "SET_ACTIVE_ITEM_UNDEFINED";
+export const USER_REGISTER = "USER_REGISTER";
+export const USER_LOGIN = "USER_LOGIN";
+export const USER_LOGOUT = "USER_LOGOUT";
